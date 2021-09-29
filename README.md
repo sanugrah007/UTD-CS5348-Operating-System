@@ -15,7 +15,7 @@ q - Save all changes and quit
 
 METHODS OF EXECUTION:
 
-This program was implemented on the putty terminal on the csgrads1@utdallas.edu server. Upon login, enter vi fsaccess.c Once a new file has been created, copy the contents over from our source code. Then press Esc and Shift+Z+Z to save. Then enter cc fsaccess.c Then enter ./a.out
+Upon login to your server, enter vi fsaccess.c Once a new file has been created, copy the contents over from our source code. Then press Esc and Shift+Z+Z to save. Then enter cc fsaccess.c Then enter ./a.out
 
 Upon entry into program enter commands of the following type
 
